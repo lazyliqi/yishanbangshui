@@ -1,0 +1,33 @@
+#nav{width: 100%;height: 20%;}
+#container #nav #logo{width: 60%;height: 100px;float:left;}
+#container #nav #logo img {width: 100%;height: 100px;}
+#container #nav #tel{width: 39%;height:70%;float:left;margin-top: 32px;}
+#container #nav #tel p{color: black;font-style: normal;font-family: "宋体"; font-size: 18px;font-weight: bold;line-height: 36px;}
+
+#list{width: 100%;height:40px;background: gray;overflow: auto;}
+#container #list a{text-decoration: none;
+						line-height: 200%;color: white;font-weight: bold;margin-left: 10%;font-size: 18px;}
+#container  #list a:hover{color: red;}	
+
+
+#container #content #c_left .top{width: 100%;height: 100$;}			
+#container #content #c_left .top video{width:100%;}
+#container #content #c_left .bottom{width: 100%;height: 100%;margin-top: 10px;line-height: 200%;}
+#container #content #c_left .bottom p{height:8%;background: gray;color:white;text-align: center;font-weight: bold;font-size: 18px;}
+#container #content #c_left .bottom  nav a{display: block;text-decoration: none;border-bottom:solid 3px lightgray;line-height: 200%;height: 30px;text-align: center;margin-top: 20px;background: lavender;color: black;}
+#container #content #c_left .bottom  nav a:hover{color: royalblue;}
+#container #content  #c_right{background: lavender;}
+#container #content  #c_right img{width:100% ;height: 400px;}
+#container #content  #c_right #top {margin-left: 15px;}
+#container #content  #c_right #top #ads0{display: block;}
+#container #content  #c_right #top .ads{width:100% ;height: 400px;display: none;}
+
+#container #content  #c_right .bottom{width: 100%;margin-top: 5px;height: 500px;}
+#container #content  #c_right .bottom h3{border-bottom: solid 3px dimgray;height:35px;text-indent: 25px;line-height: 35px;}
+#container #content  #c_right .bottom .list{width: 100%;clear: both;}
+#container #content  #c_right .bottom  .imgShow{width: 200px;height: 200px;float:left;margin-left: 50px; margin-top: 10px;}
+#container #content  #c_right .bottom img{width: 200px;height: 180px;}
+#container #content  #c_right .bottom dd{text-align: center;font-weight: bold;font-size: 14px;}
+#container #content  #c_right .bottom  a{text-decoration: none;color: black;}
+#container #content  #c_right .bottom  .tesecai{display: none;}
+#container #content  #c_right .bottom  .tutecan{display: none;}

@@ -1,0 +1,3 @@
+#content{width: 100%;border: solid 1px dimgray;height: 100%;background: lavender;margin-top: 10px;}
+#content article{margin-top: 20px;margin-left: 20px;}
+#content article header{color: red;font-weight: bold;border-bottom: solid 3px white;width: 90%;}

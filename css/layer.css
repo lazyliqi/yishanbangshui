@@ -1,0 +1,10 @@
+*{margin: 0px 0px;padding: 0px 0px;}
+
+#container{width:90% ;margin: 0px auto;}
+	
+	#content{height: 60%;}
+		
+		#c_left{width:30%;height:420px;border:solid 1px gray;margin-top: 10px;float:left;}
+		#c_right{width:68%; margin-left: 10px;margin-top: 10px;border:solid 1px dimgray;float:left;}
+		
+	#footer{height:20%;border:solid 1px black;}
